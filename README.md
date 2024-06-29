@@ -28,7 +28,7 @@ Nawet w trybie dla jednego gracza twoja gra działa na „zintegrowanym serwerze
 
 Jeśli jeszcze go nie używasz, Phosphor i Sodium  świetnie łączą się z Lithium i są w pełni kompatybilne. 
 
-[Link do pobrania]
+[Link do pobrania](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all?page=1&pageSize=20)
 
 ## Phosphor
 
@@ -36,7 +36,7 @@ Phosphor to mod do gry Minecraft, który optymalizuje jeden z najbardziej nieefe
 
 Jeśli jeszcze go nie używasz, moje inne mody optymalizacyjne Lithium i Sodium doskonale łączą się z fosforem i są w pełni kompatybilne.
 
-[Link do pobrania]
+[Link do pobrania](https://www.curseforge.com/minecraft/mc-mods/phosphor/files/all?page=1&pageSize=20)
 
 
 # LISTA W DALSZYM PRZYGOTOWANIU
