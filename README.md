@@ -1,6 +1,6 @@
 # Najleprze mody do Minecraft 
 
-!                [https://i.ibb.co/HrmpGxL/New-Project.png](https://i.ibb.co/0fPVYFp/New-Project.png)
+                            ![https://i.ibb.co/HrmpGxL/New-Project.png](https://i.ibb.co/0fPVYFp/New-Project.png)
 
 
 Robię te listę bo wiem że wiele osób nie posiada dobrych komputerów/laptopów do grania.  Sam nie mam zbyt dobrego laptopa, więc z myslą o tych osobach w tym mnie, zrobiłem te liste, lista w większości jest na fabric loader i Quilt loader. Do niektórych modów potrzebujemy [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
