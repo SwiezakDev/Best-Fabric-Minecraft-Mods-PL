@@ -1,14 +1,5 @@
 # Najleprze mody do Minecraft 
-
-## Zalecane wersje 
-WERSJE | WIADOME | NIE WIADOME
---- | --- | ---
-1.21.x | ✅ |
-1.20.x | ✅ |
-1.19.x | ✅ |
-1.18.x | ✅ |
-1.17.x | ✅ |
-1.16.x | ✅ |
+Robię te listę bo wiem że wiele osób nie posiada dobrych komputerów/laptopów do grania.  Sam nie mam zbyt dobrego laptopa, więc z myslą o tych osobach w tym mnie, zrobiłem te liste, lista w większości jest na fabric loader i Quilt loader. Do niektórych modów potrzebujemy [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 #
 
@@ -20,6 +11,8 @@ Oferuje szeroką kompatybilność z ekosystemem modów Fabric w porównaniu z in
 
 [Link do pobrania](https://www.curseforge.com/minecraft/mc-mods/sodium/files/all?page=1&pageSize=20)
 
+#
+
 ## Lithium 
 
 Lithium to uniwersalny mod optymalizacyjny do gry Minecraft, który poprawia wiele systemów (fizyka gry, sztuczna inteligencja mobów, zaznaczanie bloków itp.) bez zmiany żadnego zachowania. Działa zarówno na kliencie, jak i na serwerze i można go zainstalować na serwerach bez konieczności posiadania przez klientów modu. Po zainstalowaniu moda możesz spodziewać się ponad 50% poprawy czasów zaznaczeń, co przełoży się na znacznie szybszą grę.
@@ -29,6 +22,8 @@ Nawet w trybie dla jednego gracza twoja gra działa na „zintegrowanym serwerze
 Jeśli jeszcze go nie używasz, Phosphor i Sodium  świetnie łączą się z Lithium i są w pełni kompatybilne. 
 
 [Link do pobrania](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all?page=1&pageSize=20)
+
+#
 
 ## Phosphor
 
